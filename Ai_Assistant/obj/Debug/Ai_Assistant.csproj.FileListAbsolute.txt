@@ -1,0 +1,10 @@
+C:\Users\NachASU.SERVER2015\source\repos\Ai_Assistant\Ai_Assistant\bin\Debug\Ai_Assistant.exe.config
+C:\Users\NachASU.SERVER2015\source\repos\Ai_Assistant\Ai_Assistant\bin\Debug\Ai_Assistant.exe
+C:\Users\NachASU.SERVER2015\source\repos\Ai_Assistant\Ai_Assistant\bin\Debug\Ai_Assistant.pdb
+C:\Users\NachASU.SERVER2015\source\repos\Ai_Assistant\Ai_Assistant\obj\Debug\Ai_Assistant.csprojAssemblyReference.cache
+C:\Users\NachASU.SERVER2015\source\repos\Ai_Assistant\Ai_Assistant\obj\Debug\Ai_Assistant.Properties.Resources.resources
+C:\Users\NachASU.SERVER2015\source\repos\Ai_Assistant\Ai_Assistant\obj\Debug\Ai_Assistant.csproj.GenerateResource.cache
+C:\Users\NachASU.SERVER2015\source\repos\Ai_Assistant\Ai_Assistant\obj\Debug\Ai_Assistant.csproj.CoreCompileInputs.cache
+C:\Users\NachASU.SERVER2015\source\repos\Ai_Assistant\Ai_Assistant\obj\Debug\Ai_Assistant.exe
+C:\Users\NachASU.SERVER2015\source\repos\Ai_Assistant\Ai_Assistant\obj\Debug\Ai_Assistant.pdb
+C:\Users\NachASU.SERVER2015\source\repos\Ai_Assistant\Ai_Assistant\obj\Debug\Ai_Assistant.Form1.resources
